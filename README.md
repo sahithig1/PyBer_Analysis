@@ -26,3 +26,8 @@ Used methods from pandas and matplotlib libraries to format data, pivot into soe
 ## Summary:
 
 Overall, based on the ride sharing summary, Urban cities have more rides and drivers than rural cities. Rurl cities got less rides and average fare per ride is more in rural cities than urban. The recommendation to the CEO is to focus on Tier 2 and 3 cities to encourage people to use ride share apps. This can be done by implementing pool options or increasing the number of drivers in these cities that offer these services.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> be9ad77a3180b37922ce3a02268d477e62108424
